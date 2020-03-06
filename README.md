@@ -1,5 +1,9 @@
 # lamp-python
+
+#Purpose: 
 Create an account on the portal for the new member by validating the existence of account from the backend
+
+##Brief Description: 
 An automatic email containing link to access portal with credentials has to be generated for a new member to login to the portal. The email has to be generated to the member by validating (whether the member already has an account in the portal – Validate the transactions in the database to see if the enrolment date is today) and generate the email to the account with following details –
     • Link to portal – Create a dummy login page and host it. Generate URL and this can be used as link to portal
     • Username – Email ID
