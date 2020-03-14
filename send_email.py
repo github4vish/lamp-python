@@ -6,8 +6,8 @@ from email.mime.text import MIMEText
 import secrets
 
 token= secrets.token_urlsafe(10)
-MY_ADDRESS = 'testmail.lamp@gmail.com'
-PASSWORD = 'testmail4python@'
+MY_ADDRESS = 'youremail'
+PASSWORD = 'yourpassword'
 redirectURL= 'http://localhost:80'
 
 def token_email(email):
