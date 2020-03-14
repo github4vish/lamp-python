@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python
 
 import smtplib
 from email.mime.multipart import MIMEMultipart
