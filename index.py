@@ -29,9 +29,6 @@ print("""
 
 """)
 
-import test
 
-if test.arg==1:
- print("<label>   Welcome </label> ")
 
 
